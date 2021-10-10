@@ -1,5 +1,5 @@
 #Saaransh Sharma
-
+use strict;
 #Getting user input
 print "Enter a first name, last name or any portion of a person's name \n";
 my $name = <STDIN>;
