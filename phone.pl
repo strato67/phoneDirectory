@@ -30,7 +30,7 @@ close(FILE);
 
 #Checks if matches were found; if not display error
 if($count gt 0){
-	print "\n$count matches were found for $name:\n$directStore";
+	print "\n$count match(es) found for $name:\n$directStore";
 }else{
 	print "\n$name NOT found in the phone directory file!\n";
 
